@@ -33,6 +33,7 @@ p {
 body {
     margin: 0;
     background-color: #0f3149;
+    /* background: linear-gradient(to bottom, rgba(16,54,80,1) 0%, rgba(46,96,127,1) 93%, rgba(46,96,127,1) 100%); */
 }
 
 main {
