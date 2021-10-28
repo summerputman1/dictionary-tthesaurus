@@ -1,4 +1,4 @@
-# Dictionary & Thesaurus | [View Live Site](https://summerrollison.github.io/dictionary-tthesaurus/)
+# Dictionary & Thesaurus | [View Live Site](https://summerputman1.github.io/dictionary-tthesaurus/)
 Allows users to search both a dictionary and thesaurus at one time using the Words API.
 
 ## Features
